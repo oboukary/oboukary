@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a statistician at CCMSA and a data enthusiast. I am a graduate of INSEA in statistics and applied economics
 
 <!--
 **oboukary/oboukary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
