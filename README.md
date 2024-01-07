@@ -1,6 +1,6 @@
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/oboukary)
 [![GitHub followers](https://img.shields.io/github/followers/oboukary.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/oboukary?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Boukary16.svg?style=social)](https://twitter.com/Boukary16)  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Foboukary&label=oboukary&labelColor=%23dce775&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Foboukary)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Boukary16.svg?style=social)](https://twitter.com/Boukary16) [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Foboukary&label=visitors&labelColor=%232ccce4&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Foboukary)
 
 ### Hi there 👋
 
