@@ -8,3 +8,5 @@ I also hold a Msc in prospective modelling applied to economics and climate chan
 I have a passion for statistics, data science, quantitative economics, econometrics and finance.
 <br>
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
