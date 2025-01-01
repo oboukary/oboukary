@@ -11,7 +11,7 @@ I graduated from National Institute of Statistics and Applied economics(INSEA) o
 I also hold a Msc in prospective modelling applied to economics and climate change and climate finance. 
 I have a passion for statistics, data science, quantitative economics, econometrics and finance.
 <br>
-<img width="24" height="24" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
+<img width="24" height="24" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/> ---- <img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
