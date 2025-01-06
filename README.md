@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Hi there 👋
 
-My name is <span style="color:blue;"> Boukary Ouedraogo </span>.
+My name is <span style="color:blue;font-weight:bold"> Boukary Ouedraogo </span>.
 
 I graduated from National Institute of Statistics and Applied economics(INSEA) of Rabat in Morocco with majors in statistics, macroeconomics, microeconomics, econometrics, finance and computer science. <br>
 I also hold a Msc in prospective modelling applied to economics and climate change and climate finance. 
