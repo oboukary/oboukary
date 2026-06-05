@@ -12,7 +12,7 @@ I graduated from National Institute of Statistics and Applied economics(INSEA) o
 I also hold a Msc in prospective modelling applied to economics and climate change and climate finance. 
 I have a passion for statistics, data science, quantitative economics, econometrics and finance.
 <br>
-Here is [my website](https://ouedraogo-boukary.com/)
+Here is [my website](https://oboukary.github.io/)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
